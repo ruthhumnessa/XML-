@@ -1,0 +1,26 @@
+<ArticlesCollection>
+    <articles>
+        <article>
+            <id>0</id>
+            <title>Pub Title</title>
+            <body>Again is again and&#xd;
+                afangiange
+            </body>
+        </article>
+        <article>
+            <id>1</id>
+            <title>Hello</title>
+            <body>This is awesomeness</body>
+        </article>
+        <article>
+            <id>4</id>
+            <title>this is a good day</title>
+            <body>This is awesome</body>
+        </article>
+        <article>
+            <id>5</id>
+            <title>this is a good day</title>
+            <body>This is awesome</body>
+        </article>
+    </articles>
+</ArticlesCollection>
